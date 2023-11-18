@@ -29,6 +29,7 @@ public:
     //virtual int play(gameBase& game) = 0;
     //virtual char* winner();
 
+
     virtual bool done() = 0;
     virtual bool draw() = 0;
 

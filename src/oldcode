@@ -130,6 +130,7 @@ int ticTacToeGame::yourTurn() {
     strcpy(tempO, "O");
     bool validInput = false;
 
+
     if (turn){
         cout << "It is Player X's turn" << endl;
         if(prompt()){

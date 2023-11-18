@@ -10,6 +10,7 @@
 #define CSE332LAB_LAB4_H
 //using namespace std;
 
+
 enum errors {
     success = 0,
     usageError = 1,

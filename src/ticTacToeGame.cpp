@@ -7,6 +7,7 @@
 
 using namespace std;
 
+
 //char** ticTacToeGame::board = nullptr;
 
 ticTacToeGame::ticTacToeGame(): gameBase(5, 5){}

@@ -10,6 +10,7 @@
 #include <cstring>
 //#include <sstream>
 
+
 using namespace std;
 
 gameBase::gameBase(int tempwidth, int tempheight) : xcoord(0), ycoord(0), turn(true), longestInput(0), board(){

@@ -5,11 +5,20 @@
  * Author:
 */
 
-#include <iostream>
+#include "ticTacToeGame.h"
 
 using namespace std;
 
 int main() {
-    cout << "hello world" << endl;
+
+    //cout << "hello world" << endl;
+    ticTacToeGame game;
+    //game.play(game);
+    //game.prompt();
+    //game.yourTurn();
+    //game.done();
+    //game.draw();
+    game.play(game);
+
     return 0;
 }
